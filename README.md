@@ -14,5 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garancibiacl&show_icons=true&locale=en&layout=compact" alt="garancibiacl" /> </p>
 
-<p style="display:flex;" > <img style="justify-content: center;" align="center" src="https://github-readme-stats.vercel.app/api?username=garancibiacl&show_icons=true&locale=en" alt="garancibiacl" /> </p>
+<p style="display:flex !important;" > <img style="justify-content: center  !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=garancibiacl&show_icons=true&locale=en" alt="garancibiacl" /> </p>
 
