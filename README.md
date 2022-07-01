@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gustavo</h1>
-<h3 align="center">Apasionado al Diseño web & Desarrollador Front End Vue JS | UI</h3>
+<h3 align="center">Apasionado al Diseño Web & Desarrollador Front End Vue JS | UI</h3>
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://piensaentuweb.cl/](https://piensaentuweb.cl/)
 
@@ -14,6 +14,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garancibiacl&show_icons=true&locale=en&layout=compact" alt="garancibiacl" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=garancibiacl&show_icons=true&locale=en" alt="garancibiacl" /> </p>
+<p style="display:flex;" > <img align="center" src="https://github-readme-stats.vercel.app/api?username=garancibiacl&show_icons=true&locale=en" alt="garancibiacl" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garancibiacl&" alt="garancibiacl" /></p>
