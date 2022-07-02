@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Gustavo</h1>
-<h3 align="center">Diseño y codifico cosas maravillosamente simples, porque damos importancia al código limpio y a la semántica. Detallista en el Look & Feel y sentido en la estética, me encanta lo que hago.</h3>
+<h3 align="center">Diseño y codifico cosas maravillosamente simples, porque damos importancia al código limpio y a la semántica. Detallista en el Look & Feel y sentido de la estética, me encanta lo que hago.</h3>
 
 - 👨‍💻 Todos mis proyectos relacionados con sitios web y tienda online están disponibles en mi [Portafolio](https://piensaentuweb.cl/)
 
 - 📫 Cómo contactarme \**garancibiacl@gmail.com* \*
 
-- 🌱 Actualmente Certificado de [Desarrollador Front End Vue](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/15732/aprobacion-final-proyecto-front-end-g15-9520.png)  [Web Developer](https://www.credly.com/badges/d289ef17-9675-4bb5-84a9-43630ab9d0fb/public_url) 
+- 🌱 Actualmente Certificado de [Desarrollador Front End Vue](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/15732/aprobacion-final-proyecto-front-end-g15-9520.png) | [Web Developer](https://www.credly.com/badges/d289ef17-9675-4bb5-84a9-43630ab9d0fb/public_url) 
 
 - ⚡ Dato curioso **Apasionado por el diseño y la tecnología**
 
