@@ -5,7 +5,7 @@
 
 - 📫 Cómo contactarme \**garancibiacl@gmail.com* \*
 
-- 🌱 Actualmente Certificado de [Desarrollador Front End Vue](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/15732/aprobacion-final-proyecto-front-end-g15-9520.png) | [Web Developer](https://www.credly.com/badges/d289ef17-9675-4bb5-84a9-43630ab9d0fb/public_url) 
+- 🌱 Actualmente Certificado de [Desarrollador Front End Vue](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/15732/aprobacion-final-proyecto-front-end-g15-9520.png) | [Web Developer](https://www.credly.com/badges/d289ef17-9675-4bb5-84a9-43630ab9d0fb/public_url) | [Programación con JavaScript](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/14557/aprobacion-modulos-cursos-b-learning-programacion-con-javascript-g15-9520.png) | [CSS Avanzado](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/14114/aprobacion-modulos-cursos-b-learning-css-avanzado-g15-9520.png)
 
 - ⚡ Dato curioso **Apasionado por el diseño y la tecnología**
 
