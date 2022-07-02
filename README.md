@@ -1,9 +1,13 @@
 <h1 align="center">Hola 👋, soy Gustavo</h1>
-<h3 align="center">Diseño y codifico cosas maravillosamente simples, y me encanta lo que hago.</h3>
+<h3 align="center">Diseño y codifico cosas maravillosamente simples, porque damos importancia al código limpio y a la semántica. Detallista en el Look & Feel y sentido en la estética, me encanta lo que hago.</h3>
 
 - 👨‍💻 Todos mis proyectos relacionados con sitios web y tienda online están disponibles en mi [Portafolio](https://piensaentuweb.cl/)
 
 - 📫 Cómo contactarme \**garancibiacl@gmail.com* \*
+
+- 🌱 Actualmente Certificado de [Desarrollador Front End Vue](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/15732/aprobacion-final-proyecto-front-end-g15-9520.png)
+
+- ⚡ Dato curioso **Apasionado por el diseño y la tecnología**
 
 <h3  align="left" >Conéctese conmigo:</h3>
 <p align="left">
@@ -17,4 +21,6 @@
 <!-- <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=garancibiacl&show_icons=true&locale=en&layout=compact" alt="garancibiacl" /> </p> -->
 
 <p align="center"  > <img src="https://github-readme-stats.vercel.app/api?username=garancibiacl&show_icons=true&locale=en" alt="garancibiacl" /> </p>
+
+
 
