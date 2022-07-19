@@ -1,4 +1,6 @@
-<h1 align="center">Hola 👋, soy Gustavo</h1>
+
+
+![Hola](https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif) <h1 align="center"> soy Gustavo</h1>
 <h3 align="center">Diseño y codifico cosas maravillosamente simples, porque damos importancia al código limpio y a la semántica. Detallista en el Look & Feel y sentido de la estética, me encanta lo que hago.</h3>
 
 - 👨‍💻 Todos mis proyectos relacionados con sitios web y tienda online están disponibles en mi [Portafolio](https://piensaentuweb.cl/)
