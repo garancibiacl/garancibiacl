@@ -9,7 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=garancibiacl&style=flat-square&color=00E5FF" alt="views"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
 
 ## GitHub Statistics
 
