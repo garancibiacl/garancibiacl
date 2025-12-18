@@ -52,3 +52,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Email%20HTML-0B1020?style=for-the-badge&logo=gmail&logoColor=FF2D95"/>
 
+
+
+  ## Contacto
+
+<p align="center">
+  <a href="mailto:garancibiacl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+  </a>
+  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/gustavoarancibiacl">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+  </a>
+</p>
+
+<p align="center"><sub>Visión + Ejecución = Impacto Real</sub></p>
+
