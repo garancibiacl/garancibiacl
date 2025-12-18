@@ -6,9 +6,6 @@
   Interfaces modernas · Automatización · Performance · UX orientado a conversión
 </p>
 
-## Contribution
-
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/garancibiacl/Node-js/output/github-contribution-grid-snake-dark.svg"
@@ -70,7 +67,7 @@
 ## Contacto
 
 <p align="center">
-  <a href="mailto:contacto@gufacstudio.cl">
+  <a href="mailto:garancibiacl@gmail.com">
     <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
   </a>
   <a href="[https://www.linkedin.com](https://www.linkedin.com/in/gustavo-arancibia-53127a97">
