@@ -26,7 +26,10 @@
 
 
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
 
 ## Contribution
 
@@ -37,7 +40,10 @@
     alt="GitHub Contribution Snake"
   />
 </p>
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
+
 
 ## Stack
 
@@ -54,7 +60,9 @@
   <img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=FF2D95"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</p>
 
 ## Contacto
 
