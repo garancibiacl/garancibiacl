@@ -24,12 +24,12 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garancibiacl&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garancibiacl&theme=tokyonight&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garancibiacl&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garancibiacl&theme=2077&utcOffset=-3" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garancibiacl&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garancibiacl&theme=2077" />
 </p>
 
 
@@ -37,7 +37,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </p>
-
 
 
 
@@ -52,23 +51,4 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email%20HTML-0B1020?style=for-the-badge&logo=gmail&logoColor=FF2D95"/>
-  <img src="https://img.shields.io/badge/Automation-0B1020?style=for-the-badge&logo=n8n&logoColor=00F5A0"/>
-  <img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=FF2D95"/>
-</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
-
-## Contacto
-
-<p align="center">
-  <a href="mailto:garancibiacl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
-  </a>
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/gustavo-arancibia-53127a97">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-  </a>
-</p>
-
-<p align="center"><sub>Visión + Ejecución = Impacto Real</sub></p>
