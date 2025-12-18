@@ -11,29 +11,21 @@
 
 ---
 
-## GitHub Statistics
+<h1 align="center">GitHub Stats Dashboard</h1>
 
 <p align="center">
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api?username=garancibiacl&show_icons=true&hide_border=true&bg_color=0B1020&title_color=FF2D95&text_color=00E5FF&icon_color=F5D000&ring_color=00F5A0"
-  />
-  <img height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=garancibiacl&layout=compact&hide_border=true&bg_color=0B1020&title_color=FF2D95&text_color=00E5FF"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rennf93&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rennf93&theme=dark" />
 </p>
 
+## 🧠 Most Used Languages
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=garancibiacl&theme=github-dark&hide_border=true&area=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rennf93&layout=compact&theme=dark" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
+## 🐍 Contribution Heatmap
 <p align="center">
-  <img src="https://raw.githubusercontent.com/garancibiacl/garancibiacl/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/rennf93/rennf93/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
