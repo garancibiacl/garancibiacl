@@ -24,13 +24,14 @@
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garancibiacl&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garancibiacl&theme=github_dark&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garancibiacl&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garancibiacl&theme=dracula&utcOffset=-3" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garancibiacl&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garancibiacl&theme=dracula" />
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
