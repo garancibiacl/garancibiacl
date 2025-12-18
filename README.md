@@ -1,29 +1,110 @@
+<!-- ========================= -->
+<!--  GITHUB PROFILE README   -->
+<!--  garancibiacl            -->
+<!-- ========================= -->
 
-<h1 align="center">Hola <img align="center" width="30" height="30" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"> soy Gustavo</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=garancibiacl&label=Profile%20views&color=0e75b6&style=flat" alt="garancibiacl" /> </p>
+<h1 align="center">👋 Gustavo Arancibia</h1>
 
-<h3 align="center">Diseño y codifico cosas maravillosamente simples, porque damos importancia al código limpio y a la semántica. Detallista en el Look & Feel y sentido de la estética, me encanta lo que hago.</h3>
+<p align="center">
+  <strong>Frontend Developer · HTML Email Specialist · JavaScript</strong><br/>
+  Interfaces modernas · Automatización · Performance · UX orientado a conversión
+</p>
 
-- 👨‍💻 Todos mis proyectos relacionados con sitios web y tienda online están disponibles en mi [Portafolio](https://piensaentuweb.cl/)
+<p align="center">
+  <a href="https://github.com/garancibiacl">
+    <img src="https://komarev.com/ghpvc/?username=garancibiacl&style=flat-square&color=00e5ff" alt="Profile views"/>
+  </a>
+</p>
 
-- 📫 Cómo contactarme \**garancibiacl@gmail.com* \*
+---
 
-- 🌱 Actualmente Certificado de [Desarrollador Front End Vue](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/15732/aprobacion-final-proyecto-front-end-g15-9520.png) | [Web Developer](https://www.credly.com/badges/d289ef17-9675-4bb5-84a9-43630ab9d0fb/public_url) | [Programación con JavaScript](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/14557/aprobacion-modulos-cursos-b-learning-programacion-con-javascript-g15-9520.png) | [CSS Avanzado](https://desafiosdev.s3.amazonaws.com/uploads/certification/image/14114/aprobacion-modulos-cursos-b-learning-css-avanzado-g15-9520.png)
+## 🧠 Sobre mí
 
-- ⚡ Dato curioso **Apasionado por el diseño y la tecnología**
+Desarrollador Frontend enfocado en **interfaces eficientes, visualmente limpias y orientadas a resultados**.  
+Trabajo con **JavaScript, HTML, CSS y React**, con fuerte experiencia en **Email Marketing HTML**, automatización de flujos y optimización de performance.
 
-<h3  align="left" >Conéctese conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gustavo-arancibia-53127a97/" target="_blank" rel="noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin" width="40" height="40"/>
-</a>
+> Visión + Ejecución = Impacto Real
 
-<h3  align="left" >Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/ " target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel=" noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>   <a href ="https://www.adobe.com/in/products/illustrator.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="ilustrador" width="40" height="40"/> </a> <a href="https://www.photoshop.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https:// www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width= "40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+---
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=garancibiacl&show_icons=true&locale=en&layout=compact" alt="garancibiacl" style="max-width: 100%;" /> </p>
+## 📊 GitHub Statistics
 
-<p align="center"  > <img src="https://github-readme-stats.vercel.app/api?username=garancibiacl&show_icons=true&locale=en" alt="garancibiacl" /> </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=garancibiacl&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=garancibiacl&theme=github_dark&utcOffset=-3" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garancibiacl&theme=github_dark" />
+</p>
 
+---
+
+## 🔥 Actividad y Commits
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=garancibiacl&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧩 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garancibiacl&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## ⚙️ Stack Tecnológico
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Email%20HTML-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  <img src="https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=n8n&logoColor=FF6D00"/>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
+</p>
+
+---
+
+## 🚀 Enfoque Profesional
+
+- ⚡ Interfaces rápidas y mantenibles  
+- 🧩 Código claro y reusable  
+- 📬 Email marketing HTML robusto y compatible  
+- 🤖 Automatización de procesos  
+- 📈 UX orientado a conversión y eficiencia  
+
+---
+
+## 🌍 Información
+
+- 📍 Ubicación: **Chile**
+- 🧑‍💻 GitHub desde: **2017**
+- 🔓 Abierto a proyectos freelance y colaboraciones
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="mailto:contacto@gufacstudio.cl">
+    <img src="https://img.shields.io/badge/Email-00e5ff?style=for-the-badge&logo=gmail&logoColor=000"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-00e5ff?style=for-the-badge&logo=linkedin&logoColor=000"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Este perfil no explica lo que hago. Lo demuestra.</sub>
+</p>
 
