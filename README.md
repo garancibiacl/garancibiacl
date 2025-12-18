@@ -26,12 +26,15 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
+
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/garancibiacl/garancibiacl/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://raw.githubusercontent.com/garancibiacl/Node-js/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
-
 ---
 
 ## Stack
